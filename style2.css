@@ -1,0 +1,10 @@
+img {
+    width: 600px;
+    height: 100px;
+
+}
+h1 {
+    background: pink;
+    padding: 20px;
+    border: 10px solid pink;
+}
