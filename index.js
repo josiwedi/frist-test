@@ -1,1 +1,1 @@
-console.log("heloo from javascrpit")
+console.log("heloo from javascrpist")
